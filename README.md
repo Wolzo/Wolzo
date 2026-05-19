@@ -1,36 +1,39 @@
-## 👋 Hi, I'm Michele
+## Hi, I'm Michele
 
-💻 Full Stack and Software Developer with a background in Computer Science from the University of Milano-Bicocca.  
-I build applications across multiple environments, from web and backend systems to desktop and mobile apps, with a focus on clean, maintainable code and practical solutions.
+Computer Science student at the University of Milano-Bicocca, returning to finish the BSc after several years working as a full-stack developer. Based in Italy.
 
----
+### Backend
 
-### 🧰 Tech Stack
+Java (Spring Boot, custom internal frameworks), PHP, C#, VB.NET.
+Web applications and business software, both greenfield and legacy maintenance.
+REST APIs, server-side rendering, integration with existing systems.
 
-**Backend**  
-Java (Spring Boot, custom frameworks), C#/VB, PHP  
-SQL (MySQL, SQL Server, PostgreSQL)
-REST APIs
+### Frontend
 
-**Frontend**  
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, jQuery, Bootstrap.
+Functional UIs for web applications, not modern SPAs.
 
-**Mobile**  
-Android (native Java/Kotlin), Flutter (Dart)
+### Mobile
 
-**Systems and Embedded**  
-Linux, Raspberry Pi, Windows (Windows Services, WinForms), shell scripting, automation tools
+Android native (Java, Kotlin) as primary.
+Flutter (Dart) for cross-platform Android and iOS.
+Published apps in production.
 
-**Other Languages**  
-C, C++, Python, Prolog, Julia
+### Embedded and systems
 
----
+Java, C, Python on embedded devices.
+Linux and Windows administration, deployment, and on-site installation of full stacks (application, services, dependencies).
+Shell scripting, Windows Services, systemd, networking basics.
 
-### 🧠 About Me
-I enjoy designing efficient architectures and exploring low-level implementations as much as building user-facing software.  
-I am particularly interested in automation, cross-platform development, and practical problem solving.
+### Databases
 
----
+MySQL and SQL Server as primary, with significant production experience.
+Worked with PostgreSQL, MariaDB, SQLite, MongoDB.
 
-📫 Contact: [michelebolzoni5@gmail.com](mailto:michelebolzoni5@gmail.com)  
-🔗 GitHub: [github.com/Wolzo](https://github.com/Wolzo)
+### Other languages
+
+C++, Prolog, Julia.
+
+### Contact
+
+[michelebolzoni5@gmail.com](mailto:michelebolzoni5@gmail.com)
